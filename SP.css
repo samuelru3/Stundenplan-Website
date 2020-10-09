@@ -1,7 +1,15 @@
 
 body{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-color: beige;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(35, 70, 37);
+    font-size: large;
+    
+}
+table{
+    border-style: solid;
+    border-radius: 2px;
+    background-color: rgb(145, 142, 125);
+    
 }
 th{
     border-style: solid;
@@ -9,18 +17,16 @@ th{
     padding: 5px;
     text-align: center;
     border-width: 1px;
-    background-color: rgb(175, 170, 170);
+    background-color: rgb(109, 163, 113);
 }
 h1{
-    font-family: Arial, Helvetica, sans-serif;
-}
+    font-family: Arial, Helvetica, sans-serif;}
 td{
     border-style: solid;
     border-color: white;
     border-width: 1px;
     padding: 5px;
-    text-align: center;
-}
+    text-align: center;}
 .aen1{background-color: rgba(8, 253, 0, 0.63);}
 .aen2{background-color: rgba(39, 201, 18, 0.753);}
 .nwt{background-color: rgba(179, 35, 35, 0.575);}
@@ -31,4 +37,4 @@ td{
 .reli{background-color: rgb(199, 199, 163);}
 .d{background-color: rgb(0, 0, 255);}
 .soz{background-color: rgb(119, 0, 255);}
-.pause{background-color: rgba(128, 128, 128, 0.568);}
+.pause{background-color: rgb(90, 82, 82);}
